@@ -1,0 +1,48 @@
+
+
+h1{
+    color: rgb(44, 47, 196);
+}
+
+table td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 100px auto;
+    
+    
+}
+
+table th{
+    background-color: rgb(180, 123, 255);
+}
+
+div{
+    width: 90%;
+    height: 500px;
+    background-color: white;
+    padding: 5px;
+    margin: 0 auto;
+    
+}
+h1{
+    text-align: center;
+}
+
+.class1{
+    
+        width: 90%;
+        height: 100px;
+        background-color: white;
+        padding: 5px;
+        margin: 0 auto;
+        
+    
+}
+
